@@ -6,10 +6,10 @@ There is a **lot** of bad practices in this repository. These simple scripts wer
 
 To run any of the scripts of the day, simply type the following into the terminal:
 
-````
-//Example of day 1
+```bash
+#Example of day 1
 
 node ./dist/d1.js
-````
+```
 
 The days are names such that day 1 is called `d1.js` and day 2 is `d2.js` and so forth
