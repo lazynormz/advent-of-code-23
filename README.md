@@ -13,3 +13,8 @@ node ./dist/d1.js
 ```
 
 The days are names such that day 1 is called `d1.js` and day 2 is `d2.js` and so forth
+
+# How to read output:
+
+I am a very lazy programmer when it comes to my own tiny projects, and therefore the program will output solutions as they appear in the calender.
+I.E. the first answer will be printed first, and the second answer will be printed second
